@@ -1,6 +1,7 @@
 # PatchLabs
 PatchLabs is a group of modders, hackers, and reverse engineers who build tools to aid the modding and patching process
 
+If you want to join, hop into our discord server [here](https://discord.gg/6suD9QGZ) and make a post in #join-pl
 <!--
 
 **Here are some ideas to get you started:**
